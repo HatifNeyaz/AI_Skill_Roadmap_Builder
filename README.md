@@ -1,6 +1,6 @@
 # FlowLearn AI: Multimodal Learning Roadmap Generator 🗺️ (Multi Agent Orchestration)
 
-**FlowLearn AI** is an intelligent, multi-agent orchestration platform that transforms any learning goal—whether typed, spoken, or handwritten—into a structured, interactive roadmap.
+**FlowLearn AI** is an intelligent, multi-agent orchestration platform that transforms any learning goal, whether typed, spoken, or handwritten, into a structured, interactive roadmap.
 
 It uses a **"Committee of Experts"** architecture where specialized AI agents (an Academic Professor and a Practical Engineer) brainstorm distinct learning paths. A "Chief Architect" agent then synthesizes these perspectives into a visual flowchart and curates verified learning resources (YouTube tutorials, documentation, courses) for each step.
 
