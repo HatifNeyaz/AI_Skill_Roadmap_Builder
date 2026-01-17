@@ -75,5 +75,5 @@ graph TD
     Chart --> UI[Streamlit Display]
     Curator --> UI
     
-    classDef box fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef light fill:#c3e6cb,stroke:#155724,stroke-width:2px,color:#000;
     class Inputs,Committee,Resources box;
