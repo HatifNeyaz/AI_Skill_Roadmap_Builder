@@ -1,4 +1,4 @@
-# FlowLearn AI: Multimodal Learning Roadmap Generator 🗺️
+# FlowLearn AI: Multimodal Learning Roadmap Generator 🗺️ (Multi Agent Orchestration)
 
 **FlowLearn AI** is an intelligent, multi-agent orchestration platform that transforms any learning goal—whether typed, spoken, or handwritten—into a structured, interactive roadmap.
 
@@ -25,9 +25,9 @@ It uses a **"Committee of Experts"** architecture where specialized AI agents (a
 
 | Component | Tool / Library | Role |
 | :--- | :--- | :--- |
-| **Frontend** | [Streamlit](https://streamlit.io/) | Interactive web UI for inputs and flowchart rendering. |
-| **LLM Engine** | [Groq](https://groq.com/) | Ultra-fast inference API. |
-| **Orchestration** | [LangChain](https://www.langchain.com/) | Managing prompts, chains, and agent workflows. |
+| **Frontend** | `Streamlit` | Interactive web UI for inputs and flowchart rendering. |
+| **LLM Engine** | `Groq` | Ultra-fast inference API. |
+| **Orchestration** | `LangChain` | Managing prompts, chains, and agent workflows. |
 | **Audio Model** | `whisper-large-v3` | Transcribing user voice notes with high accuracy. |
 | **Vision Model** | `llama-3.2-90b-vision` | Analyzing handwritten notes and images. |
 | **Reasoning Models** | `llama-3.1-8b` / `llama-3.3-70b` | Powering the specialist agents and the architect. |
